@@ -1,0 +1,5 @@
+Python/stm32_log_*.csv
+Matlab/figures_*/
+Matlab/**/*.png
+__pycache__/
+*.pyc
